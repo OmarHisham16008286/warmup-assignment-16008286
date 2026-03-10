@@ -454,7 +454,7 @@ let rateLines = getRateLines(rateFile);
 
     return basePay - totalDeduction;
 }
-
+//tested and updated 2nd commit
 module.exports = {
     getShiftDuration,
     getIdleTime,
